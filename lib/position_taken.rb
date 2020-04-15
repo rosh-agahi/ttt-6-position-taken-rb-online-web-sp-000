@@ -6,4 +6,5 @@ if board[index] == " " || board[index] == "" || board[index] == nil
   elsif board[index] == "X" || board[index] == "O"
     return true
   end  
+  
 end
